@@ -127,14 +127,6 @@ Impact of discounts, delivery charges, stockouts, etc.
 
 Traffic vs conversion-driven order changes
 
-📦 Repository Structure
-📁 Funnel-Analysis-Project
-│
-├── 📄 README.md
-├── 📊 Funnel Case Study Data.xlsx
-├── 📝 Funnel Analysis Report.docx
-└── 📁 Screenshots/
-
 🚀 Outcome
 
 Delivered a concise weekly insight system that clearly linked fluctuations in orders to:
