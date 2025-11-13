@@ -1,5 +1,4 @@
 # Funnel-Analysis-Reporting
-📊 Funnel Analysis & Reporting
 
 A comprehensive analytics project focused on understanding order fluctuations, traffic changes, and conversion-funnel performance for a food-delivery platform. This project includes identifying weekly highs/lows in orders, diagnosing root causes behind fluctuations, and validating hypotheses using supporting operational data.
 
