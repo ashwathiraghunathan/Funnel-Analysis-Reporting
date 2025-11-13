@@ -65,11 +65,17 @@ Supporting Data	Key business metrics to validate conversion fluctuation reasons.
 The workbook and report include a date-wise table of highs/lows. Examples:
 
 Date	Change %	Insight
+
 10-01-2019	-45%	Sharp drop due to fall in traffic from online sources (95% drop FB, 49% drop Twitter & YouTube).
+
 22-01-2019	+85%	Surge due to 77% & 747% increase in Facebook/Twitter traffic.
+
 05-02-2019	+115%	Lift caused by higher conversion rates.
+
 04-04-2019	-52%	Low M2C due to high average discounts.
+
 14-09-2019	-57%	M2C drop driven by high average delivery charges & out-of-stock items.
+
 📘 Deliverables
 📝 1. Funnel Analysis Report (Word)
 
